@@ -52,5 +52,3 @@ numbers:
 ---
 
 ```
-
-There's an `example.json` in the repo for you to try out for yourself.
