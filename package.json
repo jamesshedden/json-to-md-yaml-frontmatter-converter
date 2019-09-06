@@ -1,0 +1,16 @@
+{
+  "name": "json-to-md-frontmatter-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Shedden <hi@james.sh>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "json-to-pretty-yaml": "^1.2.2"
+  },
+  "scripts": {
+    "convert": "yarn && npx babel-node script.js"
+  }
+}
